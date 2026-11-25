@@ -7,7 +7,7 @@ Stdlib only, no network, no file reads outside this repo.
 
 import os
 
-ENTRY = "My smart fridge's ice maker has made one cube in two years, and its app just congratulated it on embracing a slow-living era."
+ENTRY = "My smart fridge's ice maker has made one cube in two years, and its app just awarded it a mindfulness badge."
 
 OUT_DIR = "/output"
 OUT_PATH = os.path.join(OUT_DIR, "entry.txt")
